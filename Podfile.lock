@@ -1,0 +1,48 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - BTNavigationDropdownMenu (0.5)
+  - Cosmos (20.0.1)
+  - ReachabilitySwift (3)
+  - SDWebImage (5.4.0):
+    - SDWebImage/Core (= 5.4.0)
+  - SDWebImage/Core (5.4.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - BTNavigationDropdownMenu
+  - Cosmos (~> 20.0)
+  - ReachabilitySwift (~> 3.0)
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - BTNavigationDropdownMenu
+    - Cosmos
+    - ReachabilitySwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  BTNavigationDropdownMenu: ba3a26fdb6a56c4721c31df8a0875106c259663a
+  Cosmos: b47fddf2102bb48580cd3025d9ce0a5c658a65da
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SDWebImage: 5bf6aec6481ae2a062bdc59f9d6c1d1e552090e0
+
+PODFILE CHECKSUM: 966357a8d10c74cb7f18af70e55d5a5e7c1f376e
+
+COCOAPODS: 1.8.4

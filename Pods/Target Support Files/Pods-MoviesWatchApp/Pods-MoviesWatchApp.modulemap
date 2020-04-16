@@ -1,0 +1,6 @@
+framework module Pods_MoviesWatchApp {
+  umbrella header "Pods-MoviesWatchApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
